@@ -142,7 +142,7 @@ export default function Asgaardsofa() {
                 <button className="px-4 py-2">+</button>
               </div>
               <button className="px-10 py-4 rounded-[15px] border border-black hover:bg-[#FFF9E5] font-normal text-xl">
-                <Link href="/About/Cart">Add to Cart</Link>
+                <Link href="/Blogs/Cart">Add to Cart</Link>
               </button>
             </div>
 
