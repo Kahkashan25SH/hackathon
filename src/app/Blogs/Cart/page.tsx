@@ -76,7 +76,7 @@ export default function Cart() {
                             <span className="text-[#B88E2F]">Rs. 250,000.00</span>
                         </div>
                         <button className="w-full py-3 text-center border border-black rounded-md hover:bg-gray-100 transition">
-                            <Link href="/About/Checkout">Check Out</Link>
+                            <Link href="/Blogs/Checkout">Check Out</Link>
                         </button>
                     </div>
                 </div>
