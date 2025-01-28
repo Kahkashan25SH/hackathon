@@ -42,8 +42,8 @@ export default function Cartsidebar() {
           </div>
           <div className='bg-gray-400 h-0.5 w-full my-4  opacity-50'></div>
           <div className='flex justify-between'>
-            <button className='border border-black px-5 py-1 rounded-3xl hover:text-blue-800 hover:border-blue-900'><Link href="/About/Cart">ViewCart</Link></button>
-            <button className='border border-black px-5 py-1 rounded-3xl hover:text-blue-800 hover:border-blue-900'><Link href="/About/Checkout">Checkout</Link></button>
+            <button className='border border-black px-5 py-1 rounded-3xl hover:text-blue-800 hover:border-blue-900'><Link href="/Blogs/Cart">ViewCart</Link></button>
+            <button className='border border-black px-5 py-1 rounded-3xl hover:text-blue-800 hover:border-blue-900'><Link href="/Blogs/Checkout">Checkout</Link></button>
           </div>
         </div>
       </div>
